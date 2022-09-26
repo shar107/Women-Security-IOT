@@ -1,0 +1,1 @@
+This is a project developed keeping in mind the safety of women in India,it is linked to arduino + Firebase(realtime database), in short if a person is in danger this app will send an SMS to the person's friends,family members and will keep doing it in realtime.

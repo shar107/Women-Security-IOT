@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20533835084",
+    "firebase_url": "https://womensecurity-e00dc.firebaseio.com",
+    "project_id": "womensecurity-e00dc",
+    "storage_bucket": "womensecurity-e00dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20533835084:android:177c3f510cc0abe8974be9",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20533835084-22up1s6htsp1neo9hk7cjk43senjjttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByX_6u919ApxDCd-r5i2SDHq6j8QJZTFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20533835084-22up1s6htsp1neo9hk7cjk43senjjttd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
